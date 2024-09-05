@@ -5,13 +5,13 @@ Selamat datang di proyek **Point of Sales (POS) - PHP Native**! 🎉 Ini adalah 
 ## 🖥️ Tampilan Aplikasi
 
 ### 1. **Login:**
-![Login](uploads/screenshot/screenshot_001.png)
+![Login](uploads/screenshot/Screenshot_001.png)
 
 ### 2. **Dashboard:**
-![Dashboard](uploads/screenshot/screenshot_002.png)
+![Dashboard](uploads/screenshot/Screenshot_002.png)
 
 ### 3. **POS:**
-![POS](uploads/screenshot/screenshot_003.png)
+![POS](uploads/screenshot/Screenshot_003.png)
 
 ## ✨ Fitur Utama
 
